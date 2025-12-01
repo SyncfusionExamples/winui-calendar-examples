@@ -1,5 +1,7 @@
 # winui-calendar-examples
 
+This repository contains the samples that demonstrate the functionalities of [WinUI SfCalendar](https://help.syncfusion.com/winui/calendar/getting-started) control.
+
 ## Syncfusion controls:
 
 This project used the following Syncfusion control(s):
